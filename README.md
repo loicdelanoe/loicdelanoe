@@ -2,8 +2,6 @@
 
 I'm a Full-stack Web Developer student at the HEPL. I've recently started freelancing in order to gain experience while doing my studies.
 
----
-
 ## 🛠 Tools
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />&nbsp;
@@ -16,8 +14,6 @@ I'm a Full-stack Web Developer student at the HEPL. I've recently started freela
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="50" height="50" />
 </div>
 
----
-
 ## 💼 Recent projects
 
 ### [📖 Saint-Laurent d'Aigouze](https://github.com/loicdelanoe/Saint-Laurent-d-Aigouze)
@@ -25,8 +21,6 @@ A WordPress website that tells the story of the history and evolution of the str
 
 ### [🎨 Portfolio](https://github.com/loicdelanoe/portfolio-wordpress)
 My personal portfolio, which showcases my skills, projects and experience in web development and design.
-
----
 
 ## 📫 Me contacter
 
